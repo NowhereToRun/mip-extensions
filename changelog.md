@@ -1,5 +1,31 @@
 # 升级日志
 
+#### 2017.02.09
+
+> 组件上线
+
+组件名|功能说明
+---|---
+[mip-iask-ajax](https://github.com/mipengine/mip-extensions/tree/master/mip-iask-ajax)|[升级] iask—ajax请求
+[mip-global-script](https://github.com/mipengine/mip-extensions/tree/master/mip-global-script)|[升级] 页面逻辑公共脚本 添加编辑统计
+
+#### 2017.02.08
+
+> 组件上线
+
+组件名|功能说明
+---|---
+[mip-iask-ajax](https://github.com/mipengine/mip-extensions/tree/master/mip-iask-ajax)|[升级] iask—ajax请求
+[mip-iask-ext](https://github.com/mipengine/mip-extensions/tree/master/mip-iask-ext)|[升级] 爱问详细页插件
+
+#### 2017.02.07
+
+> 组件上线
+
+组件名|功能说明
+---|---
+[mip-fh-ad-plus](https://github.com/mipengine/mip-extensions/tree/master/mip-list)|[升级] 飞华广告组件
+
 #### 2017.01.23
 
 > 组件上线
@@ -7,6 +33,7 @@
 组件名|功能说明
 ---|---
 [mip-list](https://github.com/mipengine/mip-extensions/tree/master/mip-list)|[新增] 通用列表组件
+[mip-ad](https://github.com/mipengine/mip-extensions/tree/master/mip-ad)|[升级] 广告组件
 
 
 #### 2017.01.20
